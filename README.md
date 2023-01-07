@@ -4,7 +4,6 @@ Android Codelabs 저장소
 ## TODO
 
 ### Android
-- [제스쳐 네비게이션과 더 넓은 화면 환경](https://developer.android.com/codelabs/gesture-navigation?hl=ko#0)
 - [Android 네트워크 보안 구성](https://developer.android.com/codelabs/android-network-security-config?hl=ko#0)
 - [Navigation과 BackStack](https://developer.android.com/codelabs/basic-android-kotlin-training-navigation-backstack?hl=ko#0)
 - [Preferences Datastore](https://developer.android.com/codelabs/basic-android-kotlin-training-preferences-datastore?hl=ko#0)
@@ -31,6 +30,7 @@ Android Codelabs 저장소
 
 ## Done
 ### Android
+- [제스쳐 네비게이션과 더 넓은 화면 환경](https://developer.android.com/codelabs/gesture-navigation?hl=ko#0)
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=ko#0)
 - [Advanced Android in Kotlin 05.2:Introduction to Test Doubles and Dependency Injection](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles?hl=ko#0)
 - [Advanced Android in Kotlin 05.3:Testing Coroutines and Jetpack integrations](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey?hl=ko#0)
