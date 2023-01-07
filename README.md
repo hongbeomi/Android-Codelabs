@@ -3,14 +3,10 @@ Android Codelabs 저장소
 
 ## TODO
 
-### Tool
-- [중단점을 사용하여 디버그](https://developer.android.com/codelabs/basic-android-kotlin-training-debugging-with-breakpoints?hl=ko#0)
-
-
 ### Android
 - [제스쳐 네비게이션과 더 넓은 화면 환경](https://developer.android.com/codelabs/gesture-navigation?hl=ko#0)
 - [Android 네트워크 보안 구성](https://developer.android.com/codelabs/android-network-security-config?hl=ko#0)
-- [Navigatioon과 BackStack](https://developer.android.com/codelabs/basic-android-kotlin-training-navigation-backstack?hl=ko#0)
+- [Navigation과 BackStack](https://developer.android.com/codelabs/basic-android-kotlin-training-navigation-backstack?hl=ko#0)
 - [Preferences Datastore](https://developer.android.com/codelabs/basic-android-kotlin-training-preferences-datastore?hl=ko#0)
 - [적응형 레이아웃](https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-layouts?hl=ko#0)
 - [Advance WorkManager](https://developer.android.com/codelabs/android-adv-workmanager?hl=ko#0)
@@ -41,6 +37,7 @@ Android Codelabs 저장소
 
 ### Tool
 - [디버깅 소개](https://developer.android.com/codelabs/basic-android-kotlin-training-intro-debugging?hl=ko#0)
+- [중단점을 사용하여 디버그](https://developer.android.com/codelabs/basic-android-kotlin-training-debugging-with-breakpoints?hl=ko#0)
 
 ### Compose
 - [Compose 기초](https://developer.android.com/codelabs/jetpack-compose-basics?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics)
