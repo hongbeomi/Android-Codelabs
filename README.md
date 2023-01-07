@@ -4,7 +4,6 @@ Android Codelabs 저장소
 ## TODO
 
 ### Tool
-- [디버깅 소개](https://developer.android.com/codelabs/basic-android-kotlin-training-intro-debugging?hl=ko#0)
 - [중단점을 사용하여 디버그](https://developer.android.com/codelabs/basic-android-kotlin-training-debugging-with-breakpoints?hl=ko#0)
 
 
@@ -39,6 +38,9 @@ Android Codelabs 저장소
 - [Advanced Android in Kotlin 05.1:Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=ko#0)
 - [Advanced Android in Kotlin 05.2:Introduction to Test Doubles and Dependency Injection](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles?hl=ko#0)
 - [Advanced Android in Kotlin 05.3:Testing Coroutines and Jetpack integrations](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey?hl=ko#0)
+
+### Tool
+- [디버깅 소개](https://developer.android.com/codelabs/basic-android-kotlin-training-intro-debugging?hl=ko#0)
 
 ### Compose
 - [Compose 기초](https://developer.android.com/codelabs/jetpack-compose-basics?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fcompose%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics)
